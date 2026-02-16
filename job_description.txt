@@ -1,0 +1,7 @@
+Job Title: Junior Python Developer
+Requirements:
+- 0-2 years of experience with Python.
+- Familiarity with REST APIs and basic SQL.
+- Experience with Git version control.
+- Bonus: Knowledge of AI/ML libraries (TensorFlow, PyTorch).
+- Strong problem-solving skills and ability to learn quickly.
