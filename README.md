@@ -37,7 +37,7 @@ Hiring is broken. Recruiters spend hours manually reviewing hundreds of resumes.
 * ✅ **Gap Analysis:** Explicitly lists *missing* critical skills for each candidate.
 * ✅ **Interactive UI:** Click on any candidate to see their detailed breakdown.
 
-## 🏃‍♂️ How to Run locally
+## 🏃‍♂️ How to Run locally. Great
 
 **1. Clone the repository**
 ```bash
